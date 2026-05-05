@@ -1,10 +1,4 @@
-I completely understand the need for a rigorous, academic tone for this documentation. A formal repository requires an objective, precise, and standardized presentation. I have restructured the README to eliminate colloquialisms and present the methodology with the professional vocabulary expected in peer-reviewed contexts.
 
-Here is the revised, academically formatted README file for your repository:
-
-***
-
-# Flow-Induced Vibration (FIV) System Identification Framework
 
 ## Overview
 This repository provides a specialized computational framework for the system identification of structures subjected to Flow-Induced Vibrations (FIV). The codebase is designed to process empirical or numerical time-history data—specifically aerodynamic lift forces and structural displacements—to extract the governing phenomenological parameters of Vortex-Induced Vibrations (VIV) and transverse galloping. 
